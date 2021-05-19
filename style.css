@@ -75,7 +75,7 @@ body {
   padding: 0.8rem 2rem;
   border-radius: 25px;
   border: solid 2px var(--backgrounds-headings-buttons);
-  background: var(--backgrounds-headings-buttons)
+  background: var(--backgrounds-headings-buttons);
   cursor: pointer;
   font-family: var(--font-lexend);
   transition: 0.2s;
