@@ -80,11 +80,6 @@ body {
   transition: 0.2s;
 }
 
-.card__button:hover {
-  background: none;
-  color: var(--backgrounds-headings-buttons);
-}
-
 .sedans button {
   color: var(--bright-orange);
 }
@@ -129,5 +124,9 @@ body {
   }
   .attribution {
     font-size: 15px;
+  }
+  .card__button:hover {
+    background: none;
+    color: var(--backgrounds-headings-buttons);
   }
 }
